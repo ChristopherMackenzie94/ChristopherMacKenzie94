@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Chris and as of 24/05/23 I have started looking at github. Just hoping to learn the ropes for now!
+
+
 <!--
 **ChristopherMackenzie94/ChristopherMacKenzie94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
